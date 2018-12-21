@@ -1,2 +1,2 @@
-# Regresion-Lineal
-Una regresion lineal simple, implementada con el paquete sklearn
+# Linear Regression
+Simple Linear Regression in Python using sklearn 
